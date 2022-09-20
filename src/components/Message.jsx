@@ -32,7 +32,7 @@ const Message = ({ message }) => {
 							? currentUser.photoURL
 							: data.user.photoURL
 					}
-					alt="profile photo"
+					alt="profile"
 				/>
 				{/* <span>{date}</span> */}
 			</div>
